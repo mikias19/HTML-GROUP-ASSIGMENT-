@@ -1,0 +1,576 @@
+#bod {
+	background-image: url(1.jpg);
+}
+#q {
+	background-color: transparent;
+	color: black;
+	font-family:impact;
+	letter-spacing: 2px;
+	border-radius: 30px;
+	text-decoration: none;
+	
+	padding: 50px;
+
+}
+
+#jo{
+	padding: 15px;
+	color: black;
+	background-color: #7fffd4;
+  margin-left: 80px;
+  text-decoration: none;
+  border-radius: 30px;
+}
+
+.jon{
+
+	margin-bottom: 50px;
+	margin-top: 50px;
+}
+
+.q {
+	background-image: url(15.png);
+	border-radius: 40px;
+	margin-top: 0px;
+	margin-bottom: 50px;
+	padding: 100px; 
+	text-align: center;
+ }
+  #pic{
+  	margin-left: 550px;
+  	padding: 20px;
+  }
+  .mehalnav{
+  	margin-left: 200px;
+  }
+    
+  .d{
+  	
+  	margin-bottom: 10px;
+  	margin-top: 10px;
+  }
+
+#d {
+	margin-left: 600px;
+	text-align: center;
+	background-color: #7fffd4;
+	color: black;
+	border-radius: 50px;
+	text-decoration: none;
+	padding: 20px;
+	
+}
+.mejmeria-kelay {
+ 
+   margin-left: 30px;
+    width: 100%;
+	border-radius: 60px;
+    color: #09A7A1;
+    margin-bottom: 50px;
+}
+.mejmeria-kelay  ul {
+ 	padding-bottom: 0px;
+	margin: 5px 0px 0px 0px;
+
+}
+.mejmeria-kelay  li {
+	display: inline-grid;
+	margin-right: 40px;
+
+}
+h3 {
+	font-family: Cursive;
+	font-size: 30px;
+}
+
+.mejmeria-kelay  a {
+	color: black;
+  	background-color: #7fffd4;;
+    border-radius: 60px;
+    padding: 14px 25px;
+	text-align: center;
+  	text-decoration: none;
+  	
+
+}
+.mejmeria-kelay a:hover {  
+ 	color: white;
+	background-color: gray;
+    border-radius: 60px;
+    padding: 15px 25px;
+	text-align: center;
+  	text-decoration: none;  
+ } 
+
+ #b{
+ 	margin-left:400px;
+ }
+.mejmeria-kelay  input {
+	background: transparent;
+	text-decoration: none;
+	color: #7fffd4;;
+	font-weight: bold;
+	border-color: #09A7A1;
+	border-radius: 20px;
+	width: 600px; 
+
+}
+.mejmeria-kelay  button {
+	background-image: url(d.jpg);
+	color: white;
+	cursor: pointer;
+	border-color: #09A7A1;
+	border-radius: 30px; 
+
+}
+
+
+.mejemeria-kelay-nav{
+
+  margin-left: 100px;
+}
+
+
+
+
+
+
+
+.super-mejemeria-kelay-nav{  
+ 	   
+    padding: 20px; 
+    border-radius: 60px;
+    
+          }  
+
+
+
+.super-mejemeria-kelay-nav a{  
+ 	color: black;
+	background-color: #7fffd4;
+    border-radius: 60px;
+    padding: 14px 25px;
+	text-align: center;
+  	text-decoration: none; 
+  	margin-left: 300px; 
+ }  
+
+
+
+.mejemeria-kelay-nav{  
+ 	
+    padding: 20px; 
+    border-radius: 60px;
+    
+    
+          }  
+.mejemeria-kelay-nav li{  
+       list-style: none;  
+       display: inline-block;  
+       padding: 20px;  
+        }  
+
+ 
+
+
+
+.mejemeria-kelay-nav a{  
+ 	color: white;
+	background-color: gray;
+    border-radius: 60px;
+    padding: 14px 25px;
+	text-align: center;
+  	text-decoration: none;  
+ }  
+     
+.mejemeria-kelay-nav a:hover {  
+   
+   color: black;
+   background-color: #7fffd4;
+
+     
+}
+
+.mehal-photo-megelecha {
+  position: relative;
+  margin-left: 200px;
+  margin-top: 20px;
+  background-color: transparent;
+  color: white;
+ 
+  text-decoration: none;
+}
+.mehal-photo-megelecha a {
+
+	text-decoration: none;
+	color: white;
+}
+
+.mehal {  
+	margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 500px;
+    height: 300px;
+    border-radius: 20px;
+    margin-left: 200px;
+    margin-bottom: 100px;
+    margin-top: 100px;
+    position: relative;
+    background-color: transparent;
+    
+}
+
+.mehal img {
+	text-align: center;
+	width: 500px;
+	height: 300px;
+	border-radius: 20px;
+	
+}
+.mehal img:hover {
+	transform: scale(1.1);
+    border-radius: 20px;
+    overflow: hidden;
+    }
+
+
+}
+.mehal a {
+	text-decoration: none;
+	color:white;
+
+}
+
+	
+
+.ketach-gera {
+	
+	background-color: black;
+    margin-right: 300px;
+    width:   
+    min-height: 300px;
+    color: white;
+}
+.ketach-mehal {
+	background-color: black;
+    margin-right: 300px;
+    display: inline-block;
+    min-height: 300px;
+ 	
+    color: white;
+
+}
+
+.ketach-kegn {
+    background-color: black;
+    
+    display: inline-block;
+    min-height: 300px;
+    color: white;
+
+}
+.ketach-gera li {
+	color: white;
+	text-decoration: none;
+	margin-bottom: 20px;
+
+
+}
+.ketach-kegn a {
+	color: white;
+	text-decoration: none;
+	}
+
+.ketach-gera a {
+	color: white;
+	text-decoration: none;
+	}
+
+.ketach-mehal a {
+	color: white;
+	text-decoration: none;
+	}
+
+.ketach-kegn li {
+	color: white;
+	text-decoration: none;
+	margin-top: 0px;
+}
+.ketach-mehal li {
+
+	color: white;
+	text-decoration: none;
+	padding-bottom: 20px;
+}
+
+
+.mehal-gera {
+	float: right;
+
+	display: inline-block;
+	margin-left: 15px;
+}
+.mehal-sefari {
+	float: right;
+	display: inline-block;
+	margin-left: 15px;
+}
+
+.mehal-kegn {
+	float: right;
+	display: inline-block;
+}
+
+
+.mehal-gera1 {
+	float: left;
+	display: inline-block;
+	
+	
+	
+}
+
+.mehal-gera1 li {
+	color: black;
+	margin-bottom: 40px;
+	list-style: none;
+	background-color: white;
+	padding: 10px;
+	border-radius: 40px;
+
+}
+.mehal-gera img:hover {
+	transform: scale(1.2);
+	
+}
+.mehal-gera1 li:hover{
+	color: white;
+	margin-bottom: 40px;
+	list-style: none;
+	background-color: gray;
+	padding: 10px;
+	border-radius: 40px;
+
+}
+
+.mehal-gera1 a {
+	color: black;
+
+    
+	text-align: center;
+  	text-decoration: none;
+}
+
+
+.card {
+  border-radius: 20px;
+  max-width: 300px;
+  margin: 0px;
+  text-align: center;
+  font-family: arial;
+  background-color: white;
+}
+
+
+.waga {
+  color: grey;
+  font-size: 22px;
+}
+
+.card button {
+  border: none;
+  border-radius: 20px;
+  padding: 12px;
+  color: white;
+  background-color: #000;
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+  font-size: 18px;
+}
+
+.card button:hover {
+  opacity: 0.7;
+}
+.log-card {
+  border-radius: 20px;
+  max-width: 400px;
+  margin: 0px;
+  text-align: center;
+  font-family: arial;
+  background-color: white;
+  margin-top: 100px;
+  margin-left: 400px;
+
+}
+.log-card button {
+  border: none;
+  border-radius: 20px;
+  padding: 12px;
+  color: black;
+  background-color: gray;
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+  font-size: 18px;
+}
+
+.log-card button:hover {
+  border: none;
+  border-radius: 20px;
+  padding: 12px;
+  color: white;
+  background-color: black;
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+  font-size: 18px;
+}
+.sign {
+	background-color: white;
+	width: 101%;
+}
+.sign input {
+  width: 40%;
+  padding: 10px;
+  background-color: #f1f1f1;
+  border-style: none;
+  margin-bottom: 20px;
+}
+
+.sign select {
+  width: 40%;
+  background-color: #f1f1f1;
+  border-style: none;
+  padding: 10px;
+
+}
+.signupbtn {
+	width: 30%;
+	background-color: #53b52a;
+	text-align: center;
+	color: white;
+	cursor: pointer;
+	margin-left: 30px;
+	padding: 20px;
+	border-radius: 10px;
+	border-style: none;
+	margin-bottom: 10px;
+}
+#rem {
+	width: 5%;
+	margin-bottom: 20px;
+}
+.zenbil {
+	background-color: white;
+	color: black;
+	display: inline-table;
+	padding: 20px;
+	margin-left: 150px;
+	margin-bottom: 20px;
+	border-radius: 20px;
+}
+
+.zenbil span {
+	padding: 20px;
+}
+.zenbil-item {
+	border-radius: 20px;
+	background-color: #b0b5b1;
+	display: inline-block;
+	margin-bottom: 20px;
+
+}
+.zenbil-price{
+	display: inline-block;
+}
+.zenbil-item-input {
+	width:50px;
+}
+.btn-remove {
+	background-color: red;
+	color: black;
+	border-radius: 10px;
+}
+
+
+.zenbil-total {
+	padding-top: 5px;
+}
+.zenbil-waga {
+
+}
+.total-waga {
+	
+}
+.ABOUT-log-card {
+  border-radius: 40px;
+  max-width: 300px;
+  max-height: 700px;
+  margin: 0px;
+  text-align: center;
+  font-family: impact;
+  background-color: white;
+  margin-top: 50px;
+  margin-left: 145px;
+  display: inline-block;
+ 
+}
+
+
+
+
+.terenpeza {
+	background-color: black;
+	width: 101%;
+	color: white;
+
+}
+td {
+	padding-top: 20px;
+}
+.trpza-link {
+	text-decoration: none;
+	background-color: aqua;
+	color: black;
+	border-radius: 20px;
+	padding: 5px;
+}
+
+
+.dropbtn {
+background-color: transparent;
+border-style: none;
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+  
+}
+
+.dropdown-content {
+	margin-top: 10px;
+	margin-left: 7px;
+  display: none;
+  position: absolute;
+  min-width: 160px;
+  background-color: transparent;
+
+}
+
+.dropdown-content a {
+	margin-top: 5px;
+  color: black;
+  border-radius: 10px;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: inline-block;
+  background-color: aqua;
+}
+
+.dropdown-content a:hover {background-color: #ddd;}
+
+.dropdown:hover .dropdown-content {display: block;}
+
